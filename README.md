@@ -4,3 +4,4 @@ Look around [the target](http://photogram-final.matchthetarget.com/) and try to 
 
 
 
+rails generate draft:model test_table name:string industry:string structure:string last_year_revenue:integer founded_on:date
